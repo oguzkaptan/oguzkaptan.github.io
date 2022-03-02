@@ -7,3 +7,7 @@ Bu, Bedimcode'un Youtube eğitim videosunda oluşturduğu bir eğitim projesidir
 - Icons: [Boxicons](https://boxicons.com)
 - Html2pdf: [html2pdf.js](https://ekoopmans.github.io/html2pdf.js)
 - Fonts: [Google Fonts](https://fonts.google.com)
+
+# Sonuç
+
+[Responsive Cv](https://oguzkaptan.github.io)
